@@ -27,6 +27,19 @@ A simulated brute-force attack was performed by attempting multiple failed SSH l
 
 ---
 
+## 📸 Screenshots
+
+### 🔹 Failed Login Attempts
+![Failed Logs](failed_ssh_login_attempts.png)
+
+### 🔹 Count of Failed Attempts
+![Count](failed_attempts_count.png)
+
+### 🔹 Extracted Source IP
+![IP](source_ip_extraction.png)
+
+---
+
 ## 🧠 Key Findings
 - Multiple failed login attempts were detected in SSH logs  
 - All attempts originated from the same IP (::1 – localhost)  
